@@ -3,10 +3,10 @@ import requests
 
 
 DB_INFORMATION = {
-    'Redfin': 'Redfin is a real estate brokerage, and the Redfin dataset has information about homes, townhomes, and condos for sale in the United States.',
+    'RealEstate': 'Redfin is a real estate brokerage, and the Redfin dataset has information about homes, townhomes, and condos for sale in the United States.',
 }
 SAMPLE_QUESTIONS = {
-    'Redfin': [
+    'RealEstate': [
         'How many townhomes have been sold in Austin, TX so far in 2023?',
         'compare home prices in los angeles vs austin since 2022',
         'Which county has the highest median rent price overall in Florida?'
